@@ -51,4 +51,14 @@ To run this project, ensure you have Python 3.10 or higher installed on your mac
 1. **Clone the Repository:**
    Clone this repository to your local machine.
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/AhmadHammad21/Laptop-Pricing-Prediction-MLflow-Project.git
+   ```
+2. **Create a Virtual Environment:**
+   Clone this repository to your local machine.
+   ```bash
+   python3 -m venv env
+
+   .\env\Scripts\activate
+
+   pip install -r requirements.txt
+   ```
