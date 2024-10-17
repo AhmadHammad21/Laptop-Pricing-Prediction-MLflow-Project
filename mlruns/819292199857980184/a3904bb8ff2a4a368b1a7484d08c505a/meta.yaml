@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/a3904bb8ff2a4a368b1a7484d08c505a/artifacts
+end_time: 1728648154654
+entry_point_name: ''
+experiment_id: '819292199857980184'
+lifecycle_stage: active
+run_id: a3904bb8ff2a4a368b1a7484d08c505a
+run_name: polite-chimp-414
+run_uuid: a3904bb8ff2a4a368b1a7484d08c505a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728648151506
+status: 3
+tags: []
+user_id: user

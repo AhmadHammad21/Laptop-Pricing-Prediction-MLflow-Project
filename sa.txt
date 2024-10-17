@@ -1,0 +1,15 @@
+data taken from https://www.kaggle.com/datasets/owm4096/laptop-prices
+
+
+
+The goal it to use a dataset
+- EDA and understanding the data
+- Use mlflow and conduct different experiments and choose the best model.
+- Making a full pipeline project
+
+
+Started at 12-10-2024
+
+day 1 - 2h - project models 
+day 2 - 1h - model registery
+day 3 - 

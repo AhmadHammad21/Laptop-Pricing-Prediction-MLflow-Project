@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.10.12
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.sklearn.XGBRegressor
+    model_format: xgb
+    xgb_version: 1.7.6
+mlflow_version: 2.16.2
+model_size_bytes: 268157
+model_uuid: 7ca352ce04cc4d989d6b34ac49bffb13
+run_id: 017c11f16c984ebf834557ccc00ab61e
+signature:
+  inputs: '[{"type": "long", "name": "Ram", "required": true}, {"type": "double",
+    "name": "Weight", "required": true}, {"type": "double", "name": "Inches", "required":
+    true}, {"type": "long", "name": "ScreenW", "required": true}, {"type": "long",
+    "name": "ScreenH", "required": true}, {"type": "long", "name": "PrimaryStorage",
+    "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2024-10-11 12:13:59.207934'

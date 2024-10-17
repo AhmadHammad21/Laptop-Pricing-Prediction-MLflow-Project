@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728764866349
+current_stage: None
+description: null
+last_updated_timestamp: 1728764866349
+name: Xgboost
+run_id: 015f8abf6f48401dbb5dc16ec6851ce5
+run_link: null
+source: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/015f8abf6f48401dbb5dc16ec6851ce5/artifacts/xgboost_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/015f8abf6f48401dbb5dc16ec6851ce5/artifacts/xgboost_model
+user_id: null
+version: 4

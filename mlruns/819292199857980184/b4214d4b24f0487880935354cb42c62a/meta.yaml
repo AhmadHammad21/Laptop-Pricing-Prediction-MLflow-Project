@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/b4214d4b24f0487880935354cb42c62a/artifacts
+end_time: 1728643595156
+entry_point_name: ''
+experiment_id: '819292199857980184'
+lifecycle_stage: active
+run_id: b4214d4b24f0487880935354cb42c62a
+run_name: debonair-dolphin-180
+run_uuid: b4214d4b24f0487880935354cb42c62a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728643595122
+status: 3
+tags: []
+user_id: user

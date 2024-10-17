@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/ed503f69f8984b9cb766a8c45f0a320e/artifacts
+end_time: 1728764370806
+entry_point_name: ''
+experiment_id: '819292199857980184'
+lifecycle_stage: active
+run_id: ed503f69f8984b9cb766a8c45f0a320e
+run_name: bald-bee-20
+run_uuid: ed503f69f8984b9cb766a8c45f0a320e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728764365976
+status: 3
+tags: []
+user_id: user

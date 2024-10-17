@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/007136ff49a0443092ef8f3216d38db5/artifacts
+deleted_time: 1728644819944
+end_time: 1728643541793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 007136ff49a0443092ef8f3216d38db5
+run_name: valuable-sloth-191
+run_uuid: 007136ff49a0443092ef8f3216d38db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728643541756
+status: 3
+tags: []
+user_id: user

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/35a1c788f89e4d3eb99d54554801277d/artifacts
+end_time: 1728648498725
+entry_point_name: ''
+experiment_id: '819292199857980184'
+lifecycle_stage: active
+run_id: 35a1c788f89e4d3eb99d54554801277d
+run_name: smiling-carp-696
+run_uuid: 35a1c788f89e4d3eb99d54554801277d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728648495096
+status: 3
+tags: []
+user_id: user

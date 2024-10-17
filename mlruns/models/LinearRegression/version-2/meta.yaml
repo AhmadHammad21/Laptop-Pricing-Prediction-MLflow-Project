@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1728763711735
+current_stage: None
+description: This is a Linear Regression model version
+last_updated_timestamp: 1728764287367
+name: LinearRegression
+run_id: f9aacaa88bd841cf85d3f31b09e91480
+run_link: null
+source: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/f9aacaa88bd841cf85d3f31b09e91480/artifacts/lr_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing/f9aacaa88bd841cf85d3f31b09e91480/artifacts/lr_model
+user_id: null
+version: 2
