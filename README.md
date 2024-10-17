@@ -59,6 +59,15 @@ To run this project, ensure you have Python 3.10 or higher installed on your mac
    python3 -m venv env
 
    .\env\Scripts\activate
-
+   ```
+3. **Install the dependancies File:**
+   Clone this repository to your local machine.
+   ```bash
    pip install -r requirements.txt
    ```
+
+## Next Steps
+
+- **Fine-Tune Models:** Continue fine-tuning the models using hyperparameter tuning techniques (e.g., GridSearchCV).
+- **Deploy Model:** Integrate the best model into a production system, possibly through a web API using Flask or FastAPI.
+- **Monitor Model Performance:** Set up model monitoring and feedback loops to ensure the model remains effective over time.
