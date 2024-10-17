@@ -62,7 +62,7 @@ To run this project, ensure you have Python 3.10 or higher installed on your mac
    ```
 3. **Install the dependancies File:**
    Clone this repository to your local machine.
-   ```bash
+   ```bash 
    pip install -r requirements.txt
    ```
 
