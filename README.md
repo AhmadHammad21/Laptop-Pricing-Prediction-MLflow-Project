@@ -38,7 +38,6 @@ This project focuses on analyzing and predicting laptop prices using the dataset
 ├── data/                 # Directory containing the dataset
 ├── notebooks/            # Jupyter notebooks for EDA and experimentation
 ├── src/                  # Source code for pipeline, data processing, and model training
-├── mlruns/               # MLflow directory for tracking experiments (default one)
 ├── predict_pricing/      # MLflow directory for tracking pricing experiments
 ├── README.md             # Project documentation
 └── requirements.txt      # List of project dependencies

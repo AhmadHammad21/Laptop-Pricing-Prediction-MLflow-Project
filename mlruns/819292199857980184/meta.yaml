@@ -1,9 +1,0 @@
-artifact_location: file:///C:/Users/user/OneDrive/mlflow_laptop_prices/predict_pricing
-creation_time: 1728643366886
-experiment_id: '819292199857980184'
-last_update_time: 1728652858445
-lifecycle_stage: active
-name: Laptops Pricing Prediction
-tags:
-  env: dev
-  version: 1.0.0
