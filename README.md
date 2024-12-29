@@ -1,4 +1,4 @@
- # Laptop Prices Analysis and Prediction
+# Laptop Prices Analysis and Prediction
 
 ### Project Overview
 
@@ -53,14 +53,14 @@ To run this project, ensure you have Python 3.10 or higher installed on your mac
    git clone https://github.com/AhmadHammad21/Laptop-Pricing-Prediction-MLflow-Project.git
    ```
 2. **Create a Virtual Environment:**
-   Clone this repository to your local machine.
+   Create and activate virtual environment.
    ```bash
    python3 -m venv env
 
    .\env\Scripts\activate
    ```
 3. **Install the dependancies File:**
-   Clone this repository to your local machine.
+   Install libraries.
    ```bash 
    pip install -r requirements.txt
    ```
